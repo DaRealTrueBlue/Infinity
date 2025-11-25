@@ -1,0 +1,12 @@
+;!@Install@!UTF-8!
+Title="Infinity Browser Setup"
+BeginPrompt="Do you want to install Infinity Browser?"
+ExtractDialogText="Please select a folder where Infinity Browser will be installed:"
+ExtractPathText="Extract to:"
+ExtractTitle="Installing Infinity Browser..."
+GUIFlags="8+32+64+256+4096"
+GUIMode="1"
+InstallPath="%%ProgramFiles%%\\Infinity Browser"
+OverwriteMode="2"
+RunProgram="Infinity Browser.exe"
+;!@InstallEnd@!

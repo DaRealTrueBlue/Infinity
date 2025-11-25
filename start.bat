@@ -1,0 +1,3 @@
+@echo off
+echo Starting Infinity Browser...
+npm start
