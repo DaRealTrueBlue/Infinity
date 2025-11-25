@@ -60,7 +60,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behaviour may be
 reported to the project team responsible for enforcement at
-[GitHub Issues](https://github.com/DaRealTrueBlue/CodeForge/issues).
+[GitHub Issues](https://github.com/DaRealTrueBlue/Infinity/issues).
 
 All complaints will be reviewed and investigated promptly and fairly.
 
