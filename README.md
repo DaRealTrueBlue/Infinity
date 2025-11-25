@@ -10,7 +10,7 @@ A modern, fast web browser built with Electron featuring a sleek dark gradient U
   ![Version](https://img.shields.io/badge/version-1.0.0-orange)
   ![License](https://img.shields.io/badge/license-MIT-blue)
   ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-  [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/DaRealTrueBlue/CodeForge)
+  [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/DaRealTrueBlue/Infinity)
   
   [Download](https://darealtrueblue.ddns.net) • [Contributing](CONTRIBUTING.md)
 </div>
